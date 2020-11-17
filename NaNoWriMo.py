@@ -1,4 +1,8 @@
-#NaNoWriMo Word Count Program
+# NaNoWriMo Word Count Program
+# This program asks you for your current word count and today's date and evaluates it
+# against the minimum count you should reach by whichever day you're on. 
+# It congratulates you if you're over, and encourages you if you're under.
+# If you are under the minimum, it tells you how many more words you need to get out of your deficit.
 
 greeting = str("Welcome to NaNoWriMo Bot!")
 print(greeting.upper())
