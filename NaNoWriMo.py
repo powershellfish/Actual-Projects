@@ -51,7 +51,7 @@ print("You should have written a minimum of", finalcount, "words so far.")
 
 if curwordcount < finalcount:
     print("You are", (finalcount-curwordcount),"words behind. Keep going!")
-    print("You are", (curwordcount/finalcount),"% complete.")
+    print("You are", (curwordcount/finalcount) * 100.0,"% complete.")
 
 if curwordcount > finalcount:
     print("You're ahead! Awesome!")
