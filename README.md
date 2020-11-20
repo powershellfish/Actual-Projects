@@ -1,6 +1,6 @@
 # Actual Projects
  
-This is where I keep actual, in-progress projects that aren't exercises. They are ways for me to automate simple problems that I deal with on a semi-regular basis.
+This is where I keep actual, in-progress projects that aren't exercises. They are ways for me to automate solutions to simple problems that I deal with on a semi-regular basis.
 
 ## NaNoWriMo Bot
 [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py):
