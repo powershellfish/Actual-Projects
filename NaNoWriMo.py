@@ -50,8 +50,8 @@ finalcount = (date*dailycount)
 print("You should have written a minimum of", finalcount, "words so far.")
 
 if curwordcount < finalcount:
-    print("You are", (finalcount-curwordcount),"words behind. Keep going!")
     print("You are", (curwordcount/finalcount) * 100.0,"% complete.")
+    print("You are", (finalcount-curwordcount),"words behind. Keep going!")
 
 if curwordcount > finalcount:
     print("You're ahead! Awesome!")
